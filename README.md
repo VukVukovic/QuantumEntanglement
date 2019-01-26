@@ -1,2 +1,5 @@
-# QuantumEntanglement
-Petnica projekat 2017
+# Quantum Entanglement Detection Using POVM Measurements with the Application in Communication Protocols
+## Student's Project in Petnica Science Center, Physics Seminar 2017
+## Authors: Vuk Vukoivć, Mia Mijović
+
+The purpose of this project is the analysis of some POVM measurements' distributions in order to faster detect entanglement in a quantum system, as well as propose a model for verification in communication protocol based on the obtained results. Separable and entangled states with different number of qubits (up to 13) were examined. By performing a simulation, we determined measurements' distributions for randomly generated separable states, as well as for generally known and randomly generated entangled states. Based on the results, it can be concluded that the dispersions of separable and entangled states are differently proportional to the number of qubits that the system consists of. The potential application of the obtained results includes the use of entangled states as a verification key transfer protocol in communication. After performing POVM measurements and determining the dispersion, the receiver can probabilistically conclude whether there was a third-party present who was listening in the protocol. The advantage of this method is the verification of security based on a small number of quantum state copies, as well as a system of medium size.
